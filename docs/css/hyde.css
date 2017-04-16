@@ -231,19 +231,20 @@ a.sidebar-nav-item:focus {
   color: #6a9fb5;
 }
 
-.theme-base-0d .post-title-single {
+.theme-base-0e .post-title-single {
     margin-top: 0;
-    color: #6a9fb5;
+    color: rgba(124, 19, 165, 0.68);
 }
 
 /* Magenta */
 .theme-base-0e .sidebar {
-  background-color: #aa759f;
+    background-color: rgba(124, 19, 165, 0.68);
 }
 .theme-base-0e .content a,
 .theme-base-0e .related-posts li a:hover {
-  color: #aa759f;
+    color: rgba(124, 19, 165, 0.68);
 }
+/* rgb(124, 19, 165) */
 
 /* Brown */
 .theme-base-0f .sidebar {
