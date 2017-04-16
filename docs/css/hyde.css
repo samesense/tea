@@ -72,14 +72,14 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-  color: #fff;
+    color: rgba(81, 39, 130, 1);
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: #fff;
+    color: rgba(81, 39, 130, 1);
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: 3.25rem;
 }
 
@@ -233,16 +233,16 @@ a.sidebar-nav-item:focus {
 
 .theme-base-0e .post-title-single {
     margin-top: 0;
-    color: rgba(124, 19, 165, 0.68);
+    color: rgba(81, 39, 130, 1);
 }
 
 /* Magenta */
 .theme-base-0e .sidebar {
-    background-color: rgba(124, 19, 165, 0.68);
+    background-color: rgb(255, 212, 50);
 }
 .theme-base-0e .content a,
 .theme-base-0e .related-posts li a:hover {
-    color: rgba(124, 19, 165, 0.68);
+    color: rgba(81, 39, 130, 1);
 }
 /* rgb(124, 19, 165) */
 
